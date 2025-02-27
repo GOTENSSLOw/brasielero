@@ -307,7 +307,7 @@ figure {
 img,
 svg {
   vertical-align: middle;
-  border-radius: 10%;
+  border-radius:10%;
 }
 
 table {
@@ -8128,7 +8128,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-image: url(../assets/img/Portfolio/fondo2.avif);
 }
 
 .bg-secondary {
